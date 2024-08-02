@@ -11,6 +11,11 @@
 
 </script>
 
-<style scoped>
-
+<style scoped lang="scss">
+  header {
+    h1 {
+      color: $primary;
+      font-family: "Roboto", sans-serif;
+    }
+  }
 </style>
